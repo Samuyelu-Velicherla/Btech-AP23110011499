@@ -2,7 +2,7 @@
 int power_num(int,int,int*);
 int main()
 {
-//Write a C program to calculate the power of a number using pointers to functions.
+// Write a C program to calculate the power of a number using pointers to functions.
 
     int p,b,res;
     printf("Enter base and power : ");
