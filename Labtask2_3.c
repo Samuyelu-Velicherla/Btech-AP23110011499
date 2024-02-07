@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+    //Write a program in C to find the sum of all elements of the array
     int arr[100],n,sum=0;
     printf("size of an array:");
     scanf("%d",&n);
